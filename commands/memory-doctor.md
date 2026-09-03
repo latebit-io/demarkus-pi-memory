@@ -1,5 +1,5 @@
 ---
-description: Deprecated alias of /memory-doctor. Audit the memory (or a single project) for catalog hygiene: orphans, broken links, untagged docs, stale index entries, ADR gaps. Read-only.
+description: Audit the memory (or a single project) for catalog hygiene: orphans, broken links, untagged docs, stale index entries, ADR gaps. Read-only.
 argument-hint: "[project-slug | blank = whole local memory]"
 ---
 <!-- markdownlint-disable MD041 -->

@@ -1,5 +1,5 @@
 ---
-description: Deprecated alias of /memory-journal. Append an entry to today's journal for the current project
+description: Append an entry to today's journal for the current project
 argument-hint: <entry text>
 ---
 <!-- markdownlint-disable MD041 -->
